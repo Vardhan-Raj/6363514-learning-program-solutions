@@ -1,0 +1,15 @@
+C:\Users\KIIT\6363514 learning program solutions\Week 1\ECommerceSearchOptimization\bin\Debug\net8.0\ECommerceSearchOptimization.exe
+C:\Users\KIIT\6363514 learning program solutions\Week 1\ECommerceSearchOptimization\bin\Debug\net8.0\ECommerceSearchOptimization.deps.json
+C:\Users\KIIT\6363514 learning program solutions\Week 1\ECommerceSearchOptimization\bin\Debug\net8.0\ECommerceSearchOptimization.runtimeconfig.json
+C:\Users\KIIT\6363514 learning program solutions\Week 1\ECommerceSearchOptimization\bin\Debug\net8.0\ECommerceSearchOptimization.dll
+C:\Users\KIIT\6363514 learning program solutions\Week 1\ECommerceSearchOptimization\bin\Debug\net8.0\ECommerceSearchOptimization.pdb
+C:\Users\KIIT\6363514 learning program solutions\Week 1\ECommerceSearchOptimization\obj\Debug\net8.0\ECommerceSearchOptimization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIIT\6363514 learning program solutions\Week 1\ECommerceSearchOptimization\obj\Debug\net8.0\ECommerceSearchOptimization.AssemblyInfoInputs.cache
+C:\Users\KIIT\6363514 learning program solutions\Week 1\ECommerceSearchOptimization\obj\Debug\net8.0\ECommerceSearchOptimization.AssemblyInfo.cs
+C:\Users\KIIT\6363514 learning program solutions\Week 1\ECommerceSearchOptimization\obj\Debug\net8.0\ECommerceSearchOptimization.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\6363514 learning program solutions\Week 1\ECommerceSearchOptimization\obj\Debug\net8.0\ECommerceSearchOptimization.sourcelink.json
+C:\Users\KIIT\6363514 learning program solutions\Week 1\ECommerceSearchOptimization\obj\Debug\net8.0\ECommerceSearchOptimization.dll
+C:\Users\KIIT\6363514 learning program solutions\Week 1\ECommerceSearchOptimization\obj\Debug\net8.0\refint\ECommerceSearchOptimization.dll
+C:\Users\KIIT\6363514 learning program solutions\Week 1\ECommerceSearchOptimization\obj\Debug\net8.0\ECommerceSearchOptimization.pdb
+C:\Users\KIIT\6363514 learning program solutions\Week 1\ECommerceSearchOptimization\obj\Debug\net8.0\ECommerceSearchOptimization.genruntimeconfig.cache
+C:\Users\KIIT\6363514 learning program solutions\Week 1\ECommerceSearchOptimization\obj\Debug\net8.0\ref\ECommerceSearchOptimization.dll

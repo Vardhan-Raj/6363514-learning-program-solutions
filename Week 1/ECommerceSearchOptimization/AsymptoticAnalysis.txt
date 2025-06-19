@@ -1,0 +1,15 @@
+Big O Notation Explanation : It is used to describe the time complexity of algorithms in terms of input size (n). 
+It helps us understand the scalability and performance of algorithms.
+
+    - Best Case: The fastest scenario (e.g., first item match)
+    - Average Case: Expected performance over random input
+    - Worst Case: The slowest scenario (e.g., item not found)
+
+(i) Linear Search: O(n)
+    - Best: O(1) (if the element is at the beginning)
+    - Worst: O(n) (if the element is at the end or not present)
+
+(ii) Binary Search: O(log n)
+    - Requires sorted input.
+    - Best: O(1) (if the middle item is the match)
+    - Worst: O(log n)

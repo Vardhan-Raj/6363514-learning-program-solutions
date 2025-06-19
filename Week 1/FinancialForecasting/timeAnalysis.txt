@@ -1,0 +1,9 @@
+Time Complexity : 
+        What's my Approach	    Time Complexity	Space Complexity
+        ForecastRecursive	         O(n)	        O(n) (stack calls)
+        ForecastRecursiveMemo	     O(n)	        O(n) (dict + stack)
+        ForecastIterative	         O(n)	        O(1)
+
+(i) Plain recursion repeats computations unnecessarily — avoid for large n.
+(ii) Memoization stores already computed results to avoid re-calculation.
+(iii) Iterative is the most space-efficient and best for production code.

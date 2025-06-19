@@ -1,0 +1,6 @@
+Recursion is a technique where a method calls itself to solve a problem by breaking it down into smaller subproblems.
+It is useful when:
+    (i) The problem is defined in terms of smaller subproblems (e.g., Fibonacci, factorial)
+    (ii) You want clean, readable code (but must control stack depth and redundancy)
+
+In financial forecasting, recursion can simulate year-on-year growth based on a given rate.
