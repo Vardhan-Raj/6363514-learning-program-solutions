@@ -1,1 +1,6 @@
 This is the folder of Week 1 Assignments which includes the code : 
+
+Design principles & Patterns	1	Design Patterns and Principles	Exercise 1: Implementing the Singleton Pattern
+Design principles & Patterns	2	Design Patterns and Principles	Exercise 2: Implementing the Factory Method Pattern
+Data structures and Algorithms	1	Algorithms_Data Structures	Exercise 2: E-commerce Platform Search Function
+Data structures and Algorithms	2	Algorithms_Data Structures	Exercise 7: Financial Forecasting
