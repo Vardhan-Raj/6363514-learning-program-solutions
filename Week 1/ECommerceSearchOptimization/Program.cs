@@ -16,35 +16,35 @@ namespace ECommerceSearchOptimization
                 new Product(107, "Smartphone", "Electronics"),
             };
 
-            Console.WriteLine("📦 Original Product List:");
+            Console.WriteLine("Original Product List:");
             foreach (var product in products)
                 Console.WriteLine(product);
 
-            // 🔍 Linear Search
-            Console.WriteLine("\n🔍 Linear Search for ProductId 107:");
+            // Linear Search Technique
+            Console.WriteLine("\nLinear Search for ProductId 107:");
             Product? linearResult = SearchEngine.LinearSearch(products, 107);
-            Console.WriteLine(linearResult != null ? $"✅ Found: {linearResult}" : "❌ Not Found");
+            Console.WriteLine(linearResult != null ? $"Found: {linearResult}" : "Not Found");
 
-            // 📚 Sort products for Binary Search
+            // Sorting for Binary Search
             Array.Sort(products);
 
-            Console.WriteLine("\n📚 Sorted Product List (for Binary Search):");
+            Console.WriteLine("\nSorted Product List (for Binary Search):");
             foreach (var product in products)
                 Console.WriteLine(product);
 
-            // 🔍 Binary Search
-            Console.WriteLine("\n🔍 Binary Search for ProductId 107:");
+            // Binary Search Tecghnique
+            Console.WriteLine("\nBinary Search for ProductId 107:");
             Product? binaryResult = SearchEngine.BinarySearch(products, 107);
-            Console.WriteLine(binaryResult != null ? $"✅ Found: {binaryResult}" : "❌ Not Found");
+            Console.WriteLine(binaryResult != null ? $"Found: {binaryResult}" : "Not Found");
 
-            // 📊 Time Complexity Comparison
+            // Time Complexity Comparison
             Console.ForegroundColor = ConsoleColor.Yellow;
-            Console.WriteLine("\n📊 Time Complexity Comparison:");
+            Console.WriteLine("\nTime Complexity Comparison:");
             Console.ResetColor();
 
             Console.WriteLine("- Linear Search: O(n) → Scans each element.");
             Console.WriteLine("- Binary Search: O(log n) → Splits the array into halves.");
-            Console.WriteLine("\n🏁 Binary Search is more efficient for large datasets (sorted), while Linear Search works for small or unsorted arrays.");
+            Console.WriteLine("\nBinary Search is more efficient for large datasets (sorted), while Linear Search works for small or unsorted arrays.");
         }
     }
 }
