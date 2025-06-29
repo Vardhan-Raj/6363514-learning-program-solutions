@@ -2,13 +2,13 @@ using Moq;
 using NUnit.Framework;
 using CustomerCommLib;
 
-namespace CustomerCommTests  // Changed namespace
+namespace CustomerCommTests  
 {
     [TestFixture]
     public class CustomerCommTests
     {
         private Mock<IMailSender> _mailSenderMock;
-        private CustomerCommLib.CustomerComm _customerComm;  // Fully qualified
+        private CustomerCommLib.CustomerComm _customerComm;  
 
         [OneTimeSetUp]
         public void Init()
