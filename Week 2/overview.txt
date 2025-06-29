@@ -1,0 +1,7 @@
+These are the questions which I've to do in Week 2 Assignment(out of 5, 3 questions of SQL and rest 2 are NUnit & Moq)
+
+1. SQL Exercise - Advanced concepts	Exercise 1: Ranking and Window Functions	2. SQL Exercise - Index	Hands-on in this document
+4. SQL Exercise - Stored procedure	Exercise 1: Create a Stored Procedure	5. SQL Exercise - Functions	Exercise 7: Return Data from a Scalar Function
+4. SQL Exercise - Stored procedure	Exercise 5: Return Data from a Stored Procedure	4. SQL Exercise - Stored procedure	Exercise 4: Execute a Stored Procedure
+1. NUnit-Handson	Hands-on in this document		
+1. Moq-Handson	1. Write Testable Code with Moq	
