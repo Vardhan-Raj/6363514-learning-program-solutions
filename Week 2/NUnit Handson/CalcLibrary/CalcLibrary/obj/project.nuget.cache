@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NpaOQYfjPCU=",
+  "dgSpecHash": "CLaEZJxrWeE=",
   "success": true,
-  "projectFilePath": "D:\\Digital-Nurture-4.0-DotNetFSE-main\\DotNet FSE\\Deepskilling\\NUnit and Moq\\Parent project code\\CalcLibrary\\CalcLibrary\\CalcLibrary.csproj",
+  "projectFilePath": "C:\\Users\\KIIT\\6363514 learning program solutions\\Week 2\\NUnit Handson\\CalcLibrary\\CalcLibrary\\CalcLibrary.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\KIIT\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\KIIT\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"

@@ -16,3 +16,14 @@ D:\Digital-Nurture-4.0-DotNetFSE-main\DotNet FSE\Deepskilling\NUnit and Moq\Pare
 D:\Digital-Nurture-4.0-DotNetFSE-main\DotNet FSE\Deepskilling\NUnit and Moq\Parent project code\CalcLibrary\CalcLibrary\obj\Debug\netstandard2.0\CalcLibrary.csproj.CoreCompileInputs.cache
 D:\Digital-Nurture-4.0-DotNetFSE-main\DotNet FSE\Deepskilling\NUnit and Moq\Parent project code\CalcLibrary\CalcLibrary\obj\Debug\netstandard2.0\CalcLibrary.dll
 D:\Digital-Nurture-4.0-DotNetFSE-main\DotNet FSE\Deepskilling\NUnit and Moq\Parent project code\CalcLibrary\CalcLibrary\obj\Debug\netstandard2.0\CalcLibrary.pdb
+C:\Users\KIIT\6363514 learning program solutions\Week 2\NUnit Handson\CalcLibrary\CalcLibrary\bin\Debug\netstandard2.0\CalcLibrary.deps.json
+C:\Users\KIIT\6363514 learning program solutions\Week 2\NUnit Handson\CalcLibrary\CalcLibrary\bin\Debug\netstandard2.0\CalcLibrary.dll
+C:\Users\KIIT\6363514 learning program solutions\Week 2\NUnit Handson\CalcLibrary\CalcLibrary\bin\Debug\netstandard2.0\CalcLibrary.pdb
+C:\Users\KIIT\6363514 learning program solutions\Week 2\NUnit Handson\CalcLibrary\CalcLibrary\obj\Debug\netstandard2.0\CalcLibrary.csproj.AssemblyReference.cache
+C:\Users\KIIT\6363514 learning program solutions\Week 2\NUnit Handson\CalcLibrary\CalcLibrary\obj\Debug\netstandard2.0\CalcLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIIT\6363514 learning program solutions\Week 2\NUnit Handson\CalcLibrary\CalcLibrary\obj\Debug\netstandard2.0\CalcLibrary.AssemblyInfoInputs.cache
+C:\Users\KIIT\6363514 learning program solutions\Week 2\NUnit Handson\CalcLibrary\CalcLibrary\obj\Debug\netstandard2.0\CalcLibrary.AssemblyInfo.cs
+C:\Users\KIIT\6363514 learning program solutions\Week 2\NUnit Handson\CalcLibrary\CalcLibrary\obj\Debug\netstandard2.0\CalcLibrary.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\6363514 learning program solutions\Week 2\NUnit Handson\CalcLibrary\CalcLibrary\obj\Debug\netstandard2.0\CalcLibrary.sourcelink.json
+C:\Users\KIIT\6363514 learning program solutions\Week 2\NUnit Handson\CalcLibrary\CalcLibrary\obj\Debug\netstandard2.0\CalcLibrary.dll
+C:\Users\KIIT\6363514 learning program solutions\Week 2\NUnit Handson\CalcLibrary\CalcLibrary\obj\Debug\netstandard2.0\CalcLibrary.pdb

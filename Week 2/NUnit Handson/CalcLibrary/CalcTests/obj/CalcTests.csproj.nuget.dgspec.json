@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Digital-Nurture-4.0-DotNetFSE-main\\DotNet FSE\\Deepskilling\\NUnit and Moq\\Parent project code\\CalcLibrary\\CalcTests\\CalcTests.csproj": {}
+    "C:\\Users\\KIIT\\6363514 learning program solutions\\Week 2\\NUnit Handson\\CalcLibrary\\CalcTests\\CalcTests.csproj": {}
   },
   "projects": {
-    "D:\\Digital-Nurture-4.0-DotNetFSE-main\\DotNet FSE\\Deepskilling\\NUnit and Moq\\Parent project code\\CalcLibrary\\CalcLibrary\\CalcLibrary.csproj": {
+    "C:\\Users\\KIIT\\6363514 learning program solutions\\Week 2\\NUnit Handson\\CalcLibrary\\CalcLibrary\\CalcLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Digital-Nurture-4.0-DotNetFSE-main\\DotNet FSE\\Deepskilling\\NUnit and Moq\\Parent project code\\CalcLibrary\\CalcLibrary\\CalcLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\KIIT\\6363514 learning program solutions\\Week 2\\NUnit Handson\\CalcLibrary\\CalcLibrary\\CalcLibrary.csproj",
         "projectName": "CalcLibrary",
-        "projectPath": "D:\\Digital-Nurture-4.0-DotNetFSE-main\\DotNet FSE\\Deepskilling\\NUnit and Moq\\Parent project code\\CalcLibrary\\CalcLibrary\\CalcLibrary.csproj",
+        "projectPath": "C:\\Users\\KIIT\\6363514 learning program solutions\\Week 2\\NUnit Handson\\CalcLibrary\\CalcLibrary\\CalcLibrary.csproj",
         "packagesPath": "C:\\Users\\KIIT\\.nuget\\packages\\",
-        "outputPath": "D:\\Digital-Nurture-4.0-DotNetFSE-main\\DotNet FSE\\Deepskilling\\NUnit and Moq\\Parent project code\\CalcLibrary\\CalcLibrary\\obj\\",
+        "outputPath": "C:\\Users\\KIIT\\6363514 learning program solutions\\Week 2\\NUnit Handson\\CalcLibrary\\CalcLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\KIIT\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -65,14 +65,14 @@
         }
       }
     },
-    "D:\\Digital-Nurture-4.0-DotNetFSE-main\\DotNet FSE\\Deepskilling\\NUnit and Moq\\Parent project code\\CalcLibrary\\CalcTests\\CalcTests.csproj": {
+    "C:\\Users\\KIIT\\6363514 learning program solutions\\Week 2\\NUnit Handson\\CalcLibrary\\CalcTests\\CalcTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Digital-Nurture-4.0-DotNetFSE-main\\DotNet FSE\\Deepskilling\\NUnit and Moq\\Parent project code\\CalcLibrary\\CalcTests\\CalcTests.csproj",
+        "projectUniqueName": "C:\\Users\\KIIT\\6363514 learning program solutions\\Week 2\\NUnit Handson\\CalcLibrary\\CalcTests\\CalcTests.csproj",
         "projectName": "CalcTests",
-        "projectPath": "D:\\Digital-Nurture-4.0-DotNetFSE-main\\DotNet FSE\\Deepskilling\\NUnit and Moq\\Parent project code\\CalcLibrary\\CalcTests\\CalcTests.csproj",
+        "projectPath": "C:\\Users\\KIIT\\6363514 learning program solutions\\Week 2\\NUnit Handson\\CalcLibrary\\CalcTests\\CalcTests.csproj",
         "packagesPath": "C:\\Users\\KIIT\\.nuget\\packages\\",
-        "outputPath": "D:\\Digital-Nurture-4.0-DotNetFSE-main\\DotNet FSE\\Deepskilling\\NUnit and Moq\\Parent project code\\CalcLibrary\\CalcTests\\obj\\",
+        "outputPath": "C:\\Users\\KIIT\\6363514 learning program solutions\\Week 2\\NUnit Handson\\CalcLibrary\\CalcTests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\KIIT\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -87,8 +87,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Digital-Nurture-4.0-DotNetFSE-main\\DotNet FSE\\Deepskilling\\NUnit and Moq\\Parent project code\\CalcLibrary\\CalcLibrary\\CalcLibrary.csproj": {
-                "projectPath": "D:\\Digital-Nurture-4.0-DotNetFSE-main\\DotNet FSE\\Deepskilling\\NUnit and Moq\\Parent project code\\CalcLibrary\\CalcLibrary\\CalcLibrary.csproj"
+              "C:\\Users\\KIIT\\6363514 learning program solutions\\Week 2\\NUnit Handson\\CalcLibrary\\CalcLibrary\\CalcLibrary.csproj": {
+                "projectPath": "C:\\Users\\KIIT\\6363514 learning program solutions\\Week 2\\NUnit Handson\\CalcLibrary\\CalcLibrary\\CalcLibrary.csproj"
               }
             }
           }

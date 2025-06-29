@@ -1,0 +1,12 @@
+C:\Users\KIIT\6363514 learning program solutions\Week 2\Moq Handson\CustomerCommLib\bin\Debug\net8.0\CustomerCommLib.deps.json
+C:\Users\KIIT\6363514 learning program solutions\Week 2\Moq Handson\CustomerCommLib\bin\Debug\net8.0\CustomerCommLib.dll
+C:\Users\KIIT\6363514 learning program solutions\Week 2\Moq Handson\CustomerCommLib\bin\Debug\net8.0\CustomerCommLib.pdb
+C:\Users\KIIT\6363514 learning program solutions\Week 2\Moq Handson\CustomerCommLib\obj\Debug\net8.0\CustomerCommLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIIT\6363514 learning program solutions\Week 2\Moq Handson\CustomerCommLib\obj\Debug\net8.0\CustomerCommLib.AssemblyInfoInputs.cache
+C:\Users\KIIT\6363514 learning program solutions\Week 2\Moq Handson\CustomerCommLib\obj\Debug\net8.0\CustomerCommLib.AssemblyInfo.cs
+C:\Users\KIIT\6363514 learning program solutions\Week 2\Moq Handson\CustomerCommLib\obj\Debug\net8.0\CustomerCommLib.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\6363514 learning program solutions\Week 2\Moq Handson\CustomerCommLib\obj\Debug\net8.0\CustomerCommLib.sourcelink.json
+C:\Users\KIIT\6363514 learning program solutions\Week 2\Moq Handson\CustomerCommLib\obj\Debug\net8.0\CustomerCommLib.dll
+C:\Users\KIIT\6363514 learning program solutions\Week 2\Moq Handson\CustomerCommLib\obj\Debug\net8.0\refint\CustomerCommLib.dll
+C:\Users\KIIT\6363514 learning program solutions\Week 2\Moq Handson\CustomerCommLib\obj\Debug\net8.0\CustomerCommLib.pdb
+C:\Users\KIIT\6363514 learning program solutions\Week 2\Moq Handson\CustomerCommLib\obj\Debug\net8.0\ref\CustomerCommLib.dll
