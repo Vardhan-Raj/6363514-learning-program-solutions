@@ -1,0 +1,7 @@
+ASP.NET Core 8.0 Web API    1. WebApi_Handson	Hands-on in this document
+ASP.NET Core 8.0 Web API    2. WebApi_Handson	Hands-on in this document
+ASP.NET Core 8.0 Web API    3. WebApi_Handson	Hands-on in this document
+ASP.NET Core 8.0 Web API    4. WebApi_Handson	Hands-on in this document
+ASP.NET Core 8.0 Web API    5. WebApi_Handson	Hands-on in this document
+
+There are total 5 Hands-on, and the answers are in the single pdf
