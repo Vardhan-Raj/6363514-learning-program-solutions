@@ -1,0 +1,7 @@
+1. ReactJS-HOL	Hands-on in this document	6. ReactJS-HOL	Hands-on in this document
+2. ReactJS-HOL	Hands-on in this document	7. ReactJS-HOL	Hands-on in this document
+3. ReactJS-HOL	Hands-on in this document	8. ReactJS-HOL	Hands-on in this document
+4. ReactJS-HOL	Hands-on in this document		
+5. ReactJS-HOL	Hands-on in this document		
+
+In this folder, there are 8 react application, which is based on Hands-on Learning
