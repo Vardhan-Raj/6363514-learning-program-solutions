@@ -7,47 +7,39 @@ class ComplaintRegister extends Component {
       ename: "",
       complaint: "",
       NumberHolder: "",
-      showModal: false, // Custom state to control the modal visibility
+      showModal: false, 
       msg: "",
     };
 
-    // Bind event handlers
     this.handleChange = this.handleChange.bind(this);
     this.handleSubmit = this.handleSubmit.bind(this);
     this.handleCloseModal = this.handleCloseModal.bind(this);
   }
 
-  // Event handler for form input changes
-  // It uses the event.target.name to dynamically update the state
   handleChange(event) {
     this.setState({ [event.target.name]: event.target.value });
   }
 
-  // Event handler for form submission
   handleSubmit(event) {
     event.preventDefault();
 
-    // Generate a random 6-digit number as the reference ID
     const transactionId = Math.floor(Math.random() * 900000) + 100000;
 
-    // Create the message based on the document's output
     const message =
       `Thanks ` +
       this.state.ename +
       `\nYour Complaint was Submitted.\nTransaction ID is: ` +
       transactionId;
 
-    // Set the state to show the modal with the message
     this.setState({
       msg: message,
       NumberHolder: transactionId,
       showModal: true,
-      ename: "", // Reset the form fields after submission
+      ename: "", 
       complaint: "",
     });
   }
 
-  // Method to close the custom modal
   handleCloseModal() {
     this.setState({ showModal: false, msg: "" });
   }
@@ -57,7 +49,6 @@ class ComplaintRegister extends Component {
       <div style={{ textAlign: "center", fontFamily: "sans-serif" }}>
         <h1 style={{ color: "red" }}>Register your complaints here!!!</h1>
 
-        {/* The complaint form */}
         <form
           onSubmit={this.handleSubmit}
           style={{
@@ -124,7 +115,6 @@ class ComplaintRegister extends Component {
           </button>
         </form>
 
-        {/* Custom Modal/Alert Box for the output */}
         {this.state.showModal && (
           <div
             style={{
